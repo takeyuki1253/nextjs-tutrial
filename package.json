@@ -1,5 +1,13 @@
 {
   "dependencies": {
-    "use-debounce": "^10.0.1"
+    "use-debounce": "^10.0.1",
+    "react": "canary",
+    "react-dom": "canary"
+  },
+  "devDependencies": {
+    "eslint": "^9.6.0",
+    "eslint-plugin-jsx-a11y": "^6.9.0",
+    "react": "canary",
+    "react-dom": "canary"
   }
 }
