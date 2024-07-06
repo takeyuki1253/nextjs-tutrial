@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "use-debounce": "^10.0.1",
+    "next-auth": "5.0.0-beta.19",
     "react": "canary",
-    "react-dom": "canary"
+    "react-dom": "canary",
+    "use-debounce": "^10.0.1"
   },
   "devDependencies": {
     "eslint": "^9.6.0",
